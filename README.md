@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center"> Pache </h1>
-<p align="center"> A sua copilota do Moodle </p>
+<p align="center"> A sua copilota de tarefas do Moodle! </p>
 
 ---------------
 
