@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pache"
+version = "v24.9.0-cherry"
+description = ""
+authors = ["Ryster <ryster@duck.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiohttp = "^3.10.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
