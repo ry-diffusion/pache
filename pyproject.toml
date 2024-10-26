@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pache"
-version = "24.9.0"
+version = "24.10.26"
 description = ""
 authors = ["Ryster <ryster@duck.com>"]
 readme = "README.md"
